@@ -1,5 +1,9 @@
 *.temp*
 
+# IDE files #
+##############
+.idea/
+
 # Compiled source #
 ###################
 *.com
